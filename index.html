@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>TJÖRNBO — Coming Soon</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f3ef;
+      color: #171717;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .page {
+      width: 100%;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px;
+      text-align: center;
+    }
+
+    .logo {
+      font-size: clamp(42px, 7vw, 90px);
+      font-weight: 700;
+      letter-spacing: -0.06em;
+      line-height: 0.9;
+      margin-bottom: 40px;
+    }
+
+    .logo span {
+      font-weight: 400;
+    }
+
+    .label {
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+      color: #777;
+    }
+
+    h1 {
+      font-size: clamp(28px, 4vw, 52px);
+      font-weight: 400;
+      letter-spacing: -0.04em;
+      line-height: 1.05;
+      max-width: 700px;
+      margin-bottom: 20px;
+    }
+
+    .description {
+      max-width: 480px;
+      color: #666;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .line {
+      width: 40px;
+      height: 1px;
+      background: #171717;
+      margin: 34px auto;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 30px;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #999;
+    }
+
+    @media (max-width: 600px) {
+      .page {
+        padding: 25px;
+      }
+
+      .logo {
+        margin-bottom: 30px;
+      }
+
+      .description {
+        font-size: 14px;
+      }
+
+      footer {
+        bottom: 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="page">
+
+    <div class="logo">
+      TJÖRN<span>BO</span>
+    </div>
+
+    <div class="label">Sleep &amp; Living</div>
+
+    <h1>Something comfortable is coming.</h1>
+
+    <div class="line"></div>
+
+    <p class="description">
+      We are currently working on something new.
+      Our website will be available soon.
+    </p>
+
+  </main>
+
+  <footer>
+    © 2026 TJÖRNBO
+  </footer>
+
+</body>
+</html>
