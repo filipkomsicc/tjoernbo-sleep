@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-15857,-3109.78)">
+        <g id="ArtBoard4" transform="matrix(0.677335,0,0,0.637007,5116.2,1131.36)">
+            <rect x="15857.5" y="3105.8" width="1181.1" height="529.819" style="fill:none;"/>
+            <g transform="matrix(5.48768,0,0,12.5441,-5713,-14371.2)">
+                <g transform="matrix(0.410884,0,0,0.19113,3580.86,1230.62)">
+                    <g transform="matrix(83.8314,0,0,83.8314,1370.18,959.985)">
+                    </g>
+                    <text x="950.685px" y="959.985px" style="font-family:'HelveticaNeueLTStd-Ex', 'Helvetica Neue LT Std', sans-serif;font-stretch:expanded;font-size:83.831px;fill:white;">T<tspan x="988.912px 1034.43px 1104.77px 1165.8px 1234.62px 1297.24px " y="959.985px 959.985px 959.985px 959.985px 959.985px 959.985px ">JØRNBO</tspan></text>
+                </g>
+                <g transform="matrix(0.583507,0,0,0.271429,3404.45,1169.26)">
+                    <g transform="matrix(83.8314,0,0,83.8314,1267.44,959.985)">
+                    </g>
+                    <text x="1053.42px" y="959.985px" style="font-family:'HelveticaNeueLTStd-ThEx', 'Helvetica Neue LT Std', sans-serif;font-weight:250;font-stretch:expanded;font-size:83.831px;fill:white;">s<tspan x="1097.93px 1111.35px 1163.91px 1214.63px " y="959.985px 959.985px 959.985px 959.985px ">leep</tspan></text>
+                </g>
+            </g>
+            <g transform="matrix(1.6122,-0.98973,0.930802,1.71426,-4574.97,8303.78)">
+                <path d="M10876.7,3254.85C10831.2,3266.61 10794.2,3315.3 10794.2,3372.56C10794.2,3429.82 10831.2,3478.52 10876.7,3490.27C10811.7,3490.27 10759,3437.53 10759,3372.56C10759,3307.6 10811.7,3254.85 10876.7,3254.85Z" style="fill:url(#_Linear1);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(195.765,-169.938,169.938,195.765,10746,3432.79)"><stop offset="0" style="stop-color:white;stop-opacity:0.51"/><stop offset="0.21" style="stop-color:white;stop-opacity:0.312"/><stop offset="0.43" style="stop-color:white;stop-opacity:0.102"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></linearGradient>
+    </defs>
+</svg>
