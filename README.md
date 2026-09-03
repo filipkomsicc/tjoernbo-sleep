@@ -1,11 +1,13 @@
-TJØRNBO SLEEP – Foundation Prototype v0.10
+TJØRNBO SLEEP – Beta v0.1
 
-Delta-Update auf Basis von v0.9.
+Basis: Final Build v0.1 / Foundation v0.27
 
-Enthalten:
-- Händlernutzen 1–3 weiterhin dreispaltig auf Desktop und Tablet
-- interne vertikale Ausrichtung der drei Karten synchronisiert
-- Titel beginnen auf gleicher Höhe
-- Kurztexte nutzen denselben Inhaltsbereich
-- Toggle-Trenner und „Weitere Infos“ sitzen auf einer gemeinsamen horizontalen Linie
-- Premiere-Angebot und übrige Foundation unverändert
+Änderungen für die Präsentations-Beta:
+- Photo-Test-Sektion am Seitenende entfernt
+- neues 3er-Impressionen-Grid zwischen System & Komponenten und Reißverschluss-Sektion ergänzt
+- Motive: tjoernbo_wakeup.jpg, TJB_peace.jpg, tjoernbo_components.jpg
+- CTA bleibt der letzte große Inhaltsblock
+- neuer schwarzer Footer ergänzt
+- TJØRNBO Markenlogo im Footer weiß dargestellt und mit https://tjoernbo.de/ verlinkt
+- Kontakt: Telefon +45 86 46 78 00, Fax +45 86 46 78 74, Email tjoernbo@tjoernbo.dk
+- Blindlinks für Impressum und Datenschutz ergänzt
